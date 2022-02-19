@@ -19,7 +19,7 @@ I'm taking the Data Science course by Carlos Melo, from Sigmoidal, and I'll leav
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/andrenpavan)
 * [Medium](https://www.medium.com)
-
+* [Repositorio](https://github.com/andrenp2/Sigmoidal_DataScience)
 
 ## Projetos:
 Veja os Projetos aprendidos até o momento:
