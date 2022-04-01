@@ -25,6 +25,7 @@ I'm taking the Data Science course by Carlos Melo, from Sigmoidal, and I'll leav
 Veja os Projetos aprendidos até o momento:
 
 * [Analisando os dados do Airbnb para o estado do Hawaii] - https://bit.ly/3s05WgO
+* [Panorama COVID-19 - Análise da Evolução do Vírus] - https://bit.ly/3Ja8ZbH
 
 ---
 
