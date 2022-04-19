@@ -26,6 +26,6 @@ Veja os Projetos aprendidos até o momento:
 
 * [Analisando os dados do Airbnb para o estado do Hawaii] - https://bit.ly/3s05WgO
 * [Panorama COVID-19 - Análise da Evolução do Vírus] - https://bit.ly/3Ja8ZbH
-
+* [Detecção de Fraude em Cartões de Crédito] - https://bit.ly/37qY9B6
 ---
 
